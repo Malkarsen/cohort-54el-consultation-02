@@ -1,1 +1,1 @@
-# cohort-54el-consultation-02
+# This program outputs "Hello, my name is panda" to the console
