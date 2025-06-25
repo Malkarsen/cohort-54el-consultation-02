@@ -1,1 +1,0 @@
-# This program outputs "Hello, my name is panda" to the console
